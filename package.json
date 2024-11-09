@@ -50,3 +50,6 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   }
 }
+"scripts": {
+  "start": "NODE_OPTIONS=--openssl-legacy-provider react-scripts start"
+}
